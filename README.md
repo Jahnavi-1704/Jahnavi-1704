@@ -29,6 +29,12 @@ Along my undergrad journey, I have gained work experience through 4 internships 
 
 
 ## 🤝 Connect with me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahnavi17/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+### Connect with me: :smiley_cat:
+
+* [LinkedIn](https://www.linkedin.com/in/jahnavi17/)
+* [Email](mailto:j36shah@uwaterloo.ca)
+* [Website]()
