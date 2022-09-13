@@ -17,9 +17,11 @@ Along my undergrad journey, I have gained work experience through 4 internships 
 
 
 ## 💁 More About myself
+🎓 Graduating Winter 2024
+
 👩‍💻 I'm currently seeking Coop Internships for Winter 2023 & Fall 2023
 
-👯‍♀️ I'm looking to collaborate on Mobile development projects
+👯‍♀️ I'm looking to collaborate on projects involving Mobile Development
 
 💬 Ask me about my internships at Questrade, ElectroSource and AllStream!
 
