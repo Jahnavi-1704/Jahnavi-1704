@@ -8,7 +8,7 @@ I'm a 3rd year Computer Engineering student at the University of Waterloo and an
 ## 🚀 About Me
 I'm a Full Stack and Mobile Developer. 
 
-Along my undergrad journey, I have gained work experience through 4 internships.
+Along my undergrad journey, I have gained work experience through 4 internships at Questrade, ElectroSource and AllStream.
 ## 🛠 Skills
 - Languages: C#, C++, Python, Dart, JavaScript, SQL, NoSQL, HTML/CSS, Bash
 - Frameworks: React, NodeJS, Flask, Express, Flutter, React Native, MongoDB, MySQL, PostgreSQL, Django
