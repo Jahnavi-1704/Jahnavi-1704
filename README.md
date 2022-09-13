@@ -6,7 +6,7 @@ I'm a 3rd year Computer Engineering student at the University of Waterloo and an
 
 
 ## 🚀 About Me
-I'm a Full Stack and Mobile Developer. 
+I'm a Full Stack and Mobile Developer. I am extremely passionate about designing and developing cross-platform(React Native, Flutter) and native(Android, iOS) mobile applicatons.
 
 Along my undergrad journey, I have gained work experience through 4 internships at Questrade, ElectroSource and AllStream.
 ## 🛠 Skills
