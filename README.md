@@ -1,6 +1,6 @@
 # Hi there, I'm Jahnavi! 👋
 
-I'm a 3nd year Computer Engineering student at the University of Waterloo and an aspiring developer!
+I'm a 3rd year Computer Engineering student at the University of Waterloo and an aspiring developer!
 
 
 
