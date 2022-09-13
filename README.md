@@ -8,7 +8,7 @@ I'm a 3rd year Computer Engineering student at the University of Waterloo and an
 ## 🚀 About Me
 I'm a Full Stack and Mobile Developer. 
 
-I am extremely passionate about designing and developing cross-platform(React Native, Flutter) and native(Android, iOS) mobile applicatons.
+I am passionate about designing and developing cross-platform(React Native, Flutter) and native(Android, iOS) mobile applicatons.
 
 ## 🛠 Skills
 - Languages: C#, C++, Python, Dart, JavaScript, SQL, NoSQL, HTML/CSS, Bash
