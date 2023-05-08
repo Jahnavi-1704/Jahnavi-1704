@@ -20,7 +20,7 @@ I am passionate about designing and developing cross-platform(React Native, Flut
 ## 💁 More About myself
 🎓 Graduating Winter 2024
 
-👩‍💻 I'm currently seeking Coop Internships Fall 2023
+👩‍💻 I'm currently seeking Coop Internships for Fall 2023
 
 👯‍♀️ I'm looking to collaborate on projects involving Mobile Development
 
