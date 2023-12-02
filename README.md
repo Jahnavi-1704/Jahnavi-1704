@@ -1,6 +1,6 @@
 # Hi there, I'm Jahnavi! 👋
 
-I'm a 4th year Computer Engineering student at the University of Waterloo and an aspiring developer!
+I'm a 4th year Computer Engineering student at the University of Waterloo and an aspiring developer, graduating in April 2024!
 
 
 
