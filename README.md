@@ -6,9 +6,9 @@ I'm a 4th year Computer Engineering student at the University of Waterloo and an
 
 
 ## 🚀 About Me
-I'm a Mobile Developer, currently interested in the DevOps world! 
+I'm a Mobile Developer, currently interested in the DevOps world! I am passionate about designing and developing both cross-platform (React Native, Flutter) and native (Android, iOS) Mobile applicatons. Currently on a DevOps zeal to automate and optimize the tech magic behind the scenes!
 
-I am passionate about designing and developing both cross-platform (React Native, Flutter) and native (Android, iOS) Mobile applicatons. Currently on a DevOps zeal to automate and optimize the tech magic behind the scenes!
+I am Actively seeking 2024 New Grad SWE, Mobile Development, or DevOps opportunities. If you have any open positions, you can reach out at j36shah@uwaterloo.ca, and let's have a chat!
 
 ## 🛠 Skills
 - Languages: C, C++, Java, Swift, Python, Dart, JavaScript, SQL, Bash, Groovy, Ruby on Rails, YAML
