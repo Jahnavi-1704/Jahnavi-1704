@@ -22,9 +22,9 @@ I am passionate about designing and developing both cross-platform (React Native
 
 👩‍💻 Actively Seeking 2024 New Grad SWE, Mobile Developer and DevOps positions
 
-👯‍♀️ I'm looking to collaborate on projects involving Mobile Development
-
 💬 Ask me about my internships at TD, Questrade, ElectroSource and AllStream!
+
+👯‍♀️ I'm looking to collaborate on projects involving Mobile Development, DevOps, FullStack
 
 ⚡️ Fun fact: I love reading Science Fiction and I play badminton!
 
