@@ -11,9 +11,9 @@ I'm a Mobile Developer, currently interested in the DevOps world!
 I am passionate about designing and developing cross-platform(React Native, Flutter) and native(Android, iOS) mobile applicatons.
 
 ## 🛠 Skills
-- Languages: C, C++, Java, Python, Dart, JavaScript, SQL, Bash, Groovy, Ruby on Rails
+- Languages: C, C++, Java, Swift, Python, Dart, JavaScript, SQL, Bash, Groovy, Ruby on Rails, YAML
 - Frameworks:  Flutter, React Native, React, NodeJS, Flask, Express, MongoDB
-- Tools: Git, Jenkins, Docker, Ansible, Prometheus, Gradle, Postman, Android Studio, XCode, Redis, Linux, VS Code
+- Tools: Git, Github Actions, Jenkins, Docker, Ansible, Prometheus, Gradle, Linux, Postman, Android Studio, XCode, Redis
 
 
 
